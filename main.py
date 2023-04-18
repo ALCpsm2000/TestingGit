@@ -4,6 +4,5 @@ def sum(num1, num2):
     return num1 + num2
 
 
-#add the subtract function here
-
-
+def subtraction(num1, num2):
+    return num1 - num2
